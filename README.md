@@ -1,44 +1,44 @@
 <p align="center">
-  <img src="https://i.ibb.co/390pctKD/SPAX-logo.png" alt="logo" border="0">
+  <img src="https://i.ibb.co/ZpzFFHj8/SPAX-logo.png" alt="logo" border="0">
 </p>
 
-<h1 align="center">SpaxNexum Network</h1>
+<h1 align="center">SpaxVexo Network</h1>
 
 <p align="center">
   <strong>Decentralized. Fast. Built for the Future.</strong>
 </p>
 
 <p align="center">
-  <a href="https://SpaxNexum.com">Website</a> •
-  <a href="https://SpaxNexum.com">Explore the Ecosystem</a>
+  <a href="https://SpaxVexo.com">Website</a> •
+  <a href="https://SpaxVexo.com">Explore the Ecosystem</a>
 </p>
 
 ---
 
 ## Overview
 
-**SpaxNexum** is a decentralized blockchain ecosystem powered by a global community of developers, innovators, and digital builders. We are focused on shaping the next generation of financial and technological infrastructure.
+**SpaxVexo** is a decentralized blockchain ecosystem powered by a global community of developers, innovators, and digital builders. We are focused on shaping the next generation of financial and technological infrastructure.
 
-Designed with **speed**, **security**, and **scalability** at its core, SpaxNexum delivers efficient transactions, low network fees, and a reliable foundation for real-world applications — from decentralized finance and digital payments to staking and ecosystem utilities.
+Designed with **speed**, **security**, and **scalability** at its core, SpaxVexo delivers efficient transactions, low network fees, and a reliable foundation for real-world applications — from decentralized finance and digital payments to staking and ecosystem utilities.
 
-Built around accessibility and continuous innovation, SpaxNexum enables individuals and organizations to participate in a transparent, community-driven network that prioritizes performance, security, and long-term sustainability.
+Built around accessibility and continuous innovation, SpaxVexo enables individuals and organizations to participate in a transparent, community-driven network that prioritizes performance, security, and long-term sustainability.
 
 ---
 
 ## Take Full Control — Operate Your Own Node
 
-Become an active part of the SpaxNexum ecosystem by running your own node.
+Become an active part of the SpaxVexo ecosystem by running your own node.
 
 - Strengthen network security  
 - Validate transactions  
 - Contribute to true decentralization  
 - Maintain full control over your participation  
 
-Running a node supports network growth, improves resilience, and gives you a direct role in shaping the future of SpaxNexum.
+Running a node supports network growth, improves resilience, and gives you a direct role in shaping the future of SpaxVexo.
 
 ---
 
-## Why Choose SpaxNexum?
+## Why Choose SpaxVexo?
 
 - ⚡ **Fast & Efficient** — High-performance transaction processing  
 - 💰 **Low Network Fees** — Cost-effective for users and developers  
@@ -51,22 +51,22 @@ Running a node supports network growth, improves resilience, and gives you a dir
 
 ## Getting Started
 
-Join the growing SpaxNexum community and explore the future of decentralized technology.
+Join the growing SpaxVexo community and explore the future of decentralized technology.
 
-👉 **[Visit SpaxNexum](https://SpaxNexum.com)** to learn more, explore the ecosystem, and get started today.
+👉 **[Visit SpaxVexo](https://SpaxVexo.com)** to learn more, explore the ecosystem, and get started today.
 
 ---
 
 ## Community
 
-A special thank you to all SpaxNexum validators supporting the network.
+A special thank you to all SpaxVexo validators supporting the network.
 
 Together, we are building a stronger, more resilient decentralized future.
 
 ---
 
 <p align="center">
-  <sub>Built with ❤️ by the SpaxNexum community</sub>
+  <sub>Built with ❤️ by the SpaxVexo community</sub>
 </p>
 
 

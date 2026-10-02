@@ -54,6 +54,7 @@ Running a node supports network growth, improves resilience, and gives you a dir
 Join the growing SpaxVexo community and explore the future of decentralized technology.
 
 👉 **[Visit SpaxVexo](https://SpaxVexo.com)** to learn more, explore the ecosystem, and get started today.
+- [Read the SpaxVexo Whitepaper](https://whitepaper.SpaxVexo.com)
 
 ---
 
